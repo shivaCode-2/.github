@@ -80,40 +80,13 @@ Help validate pre-release packages and pull requests. Install a build, try it in
 
 ### The Process at a Glance
 
-```
-Feature Idea / Issue ──► Discussions & Tagging ──► SteerCo Review
-                                                        │
-                                          ┌──────────────┤
-                                          ▼              ▼
-                                    "High Interest"   "Rejected"
-                                          │
-                                          ▼
-                              Scope & Plan Work
-                                          │
-                                          ▼
-                                    Dev Activity
-                                          │
-                                          ▼
-                            PR to Feature Branch
-                                          │
-                                          ▼
-                                CI/CD Execution
-                                          │
-                                          ▼
-                          Reviewed by Repo Owners
-                                    │           │
-                                    ▼           ▼
-                              PR Approved   PR Declined
-                                    │
-                                    ▼
-                          Merged to Develop
-                                    │
-                                    ▼
-                    Integration & Release Candidate
-                                    │
-                                    ▼
-                          Ships in LabVIEW
-```
+#### Ideation & Scoping
+
+![Ideation and Scoping Flow](assets/flow-part1.png)
+
+#### Integration & Release
+
+![Integration and Release Flow](assets/flow-part2.png)
 
 ---
 
