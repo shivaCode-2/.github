@@ -71,11 +71,11 @@ Help validate pre-release packages and pull requests. Install a build, try it in
 *"I have a fix for an issue — tell me what's next?"*
 
 1. **Find an issue** — Look for issues labeled `Workflow: Open to Contribution`
-2. **Comment on the issue** — Let maintainers know you'd like to work on it
+2. **Comment on the issue** — Let repo owners know you'd like to work on it
 3. **Fork the repository** and create a feature branch
 4. **Implement your changes** following the coding guidelines
 5. **Submit a Pull Request** targeting the appropriate branch
-6. **Respond to review feedback** — maintainers will review and may request changes
+6. **Respond to review feedback** — repo owners will review and may request changes
 7. **Merge** — once approved, your changes are merged and queued for release
 
 ### The Process at a Glance
@@ -141,7 +141,7 @@ Feature Idea / Issue ──► Discussions & Tagging ──► SteerCo Review
 
 ### Review Timeline
 
-Pull Requests are reviewed by repository maintainers. Expect:
+Pull Requests are reviewed by repo owners. Expect:
 
 - **Initial review** within 5–10 business days
 - **Follow-up reviews** within 3–5 business days after revisions
@@ -154,7 +154,7 @@ Pull Requests are reviewed by repository maintainers. Expect:
 These repositories are maintained under a **Steering Committee** model:
 
 - **Technical Steering Committee (SteerCo)** — defines the roadmap, reviews architectural changes, and approves feature directions. Composed of NI staff and selected community architects.
-- **Maintainers** — handle code review, CI validation, merge approvals, and release tagging.
+- **Repo Owners** — handle code review, CI validation, merge approvals, and release tagging.
 - **NI** retains final decision authority on major roadmap and architecture changes.
 
 ### Our Goals Moving Forward
